@@ -1,5 +1,7 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/timothystewart6/docker-piwik.svg)](https://hub.docker.com/r/timothystewart6/docker-piwik/)
+
+
 # Docker Piwik Container (marvambass/piwik)
-_maintained by MarvAmBass_
 
 [FAQ - All you need to know about the marvambass Containers](https://marvin.im/docker-faq-all-you-need-to-know-about-the-marvambass-containers/)
 
